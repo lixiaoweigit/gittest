@@ -1,0 +1,2 @@
+# gittest
+just pratice git
